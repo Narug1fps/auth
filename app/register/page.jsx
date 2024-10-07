@@ -77,7 +77,7 @@ export default function SignupForm() {
   }
 
   return (
-    <div className="min-h-screen flex items-center justify-center    sm:px-6 lg:px-8  bg-image  bg-no-repeat  selection:bg-indigo-600">
+    <div className="min-h-screen flex items-center justify-center    sm:px-6 lg:px-8  bg-image   selection:bg-indigo-600">
       <div className=" w-[350px] items-center justify-center bg-blur  border-2 rounded-xl backdrop-blur  border-gray-500 pl-2" >
         <div>
           <h2 className="mt-6  text-center text-3xl font-extrabold text-gray-900">
