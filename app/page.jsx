@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <><body className="bg-image gap-4 grid place-items-center">
+    <><body className="bg-image bg-black gap-4 grid place-items-center">
       
         <div className=" w-[300px] h-[300px] rounded-md space-x-5  pl-14 pt-28  mt-60 backdrop-blur border-2 border-gray-500 ">
         <Link href="/login" class="group  btn undefined">
