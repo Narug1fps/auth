@@ -9,7 +9,7 @@ module.exports = {
   theme: {
   	extend: {
   		backgroundImage: {
-  			image: 'url(../public/ck.webp)'
+  			image: 'url(../ck.webp)'
   		},
   		borderRadius: {
   			lg: 'var(--radius)',
